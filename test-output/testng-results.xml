@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T11:59:15 PDT" name="Default suite" finished-at="2024-03-23T11:59:20 PDT" duration-ms="4291">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T11:59:15 PDT" name="Default test" finished-at="2024-03-23T11:59:20 PDT" duration-ms="4291">
+      <class name="testCases.MiniFrameWorkLoginTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.MiniFrameWorkLoginTestCase@2892d68]" started-at="2024-03-23T11:59:15 PDT" name="setup" finished-at="2024-03-23T11:59:19 PDT" duration-ms="3878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testCases.MiniFrameWorkLoginTestCase@2892d68]" started-at="2024-03-23T11:59:19 PDT" name="login" finished-at="2024-03-23T11:59:19 PDT" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.MiniFrameWorkLoginTestCase@2892d68]" started-at="2024-03-23T11:59:19 PDT" name="tearDown" finished-at="2024-03-23T11:59:20 PDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.MiniFrameWorkLoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
